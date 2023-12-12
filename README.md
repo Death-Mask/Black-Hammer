@@ -21,10 +21,7 @@
 
 ##
 
-<h3>Tested on</h3>
-
-- **Ubuntu**
-- **Debian**
+#                                <h1>SOOOOOOON</h1>
 
 ##
 
