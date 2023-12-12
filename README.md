@@ -1,7 +1,7 @@
 <!-- Black-Hammer -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src="GitHubAssest/logo.png">
 </p>
 
 <p align="center">
